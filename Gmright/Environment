@@ -1,0 +1,29 @@
+Using build environment variables:
+  BASH_ENV=/tmp/.bash_env-6106518479a29c0ab893c08b-0-build
+  CI=true
+  CIRCLECI=true
+  CIRCLE_BRANCH=circleci-project-setup
+  CIRCLE_BUILD_NUM=1
+  CIRCLE_BUILD_URL=https://circleci.com/gh/https-github-com-Gmright2-coll/GMRIGHT2-coll/1
+  CIRCLE_COMPARE_URL=
+  CIRCLE_JOB=welcome/run
+  CIRCLE_NODE_INDEX=0
+  CIRCLE_NODE_TOTAL=1
+  CIRCLE_PREVIOUS_BUILD_NUM=
+  CIRCLE_PROJECT_REPONAME=GMRIGHT2-coll
+  CIRCLE_PROJECT_USERNAME=https-github-com-Gmright2-coll
+  CIRCLE_REPOSITORY_URL=git@github.com:https-github-com-Gmright2-coll/GMRIGHT2-coll.git
+  CIRCLE_SHA1=db46d47b9bc2457b1899aa8e3837443a48940ef8
+  CIRCLE_SHELL_ENV=/tmp/.bash_env-6106518479a29c0ab893c08b-0-build
+  CIRCLE_STAGE=welcome/run
+  CIRCLE_USERNAME=bitokenja3
+  CIRCLE_WORKFLOW_ID=0e560fd6-b649-4095-bff1-8ffe5733008d
+  CIRCLE_WORKFLOW_JOB_ID=53832f51-8a5e-49b4-bd8a-e7e973bbc6d3
+  CIRCLE_WORKFLOW_UPSTREAM_JOB_IDS=
+  CIRCLE_WORKFLOW_WORKSPACE_ID=0e560fd6-b649-4095-bff1-8ffe5733008d
+  CIRCLE_WORKING_DIRECTORY=~/project
+
+Using environment variables from project settings and/or contexts:
+  CIRCLE_JOB=**REDACTED**
+
+The redacted variables listed above will be masked in run step output.
